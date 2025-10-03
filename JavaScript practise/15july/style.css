@@ -1,0 +1,31 @@
+.cs1{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cs2{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cs3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 350px;
+}
+
+.cs4{
+    margin-right: 20px;
+}
+
+#click{
+    text-align: center;
+    cursor: pointer;
+}
