@@ -16,6 +16,9 @@ const ImgRendering = () => {
     <div><img src={image} alt="" style={{height:"200px",width:"400px"}}/></div>
     <button onClick={changeImage}>Change Image</button> */}
 
+    {/* <div style={{height:"200px",width:"400px",backgroundImage:`url(${bgimage})`,backgroundSize:"cover"}}></div>
+    <button onClick={changebgimg}>Change Image</button> */}
+
     <div style={{height:"200px",width:"400px",backgroundImage:`url(${bgimage})`,backgroundSize:"cover"}}></div>
     <button onClick={changebgimg}>Change Image</button>
     </>
