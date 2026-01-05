@@ -1,0 +1,22 @@
+#main{
+    height: 500px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+#main img{
+    height: 50%;
+    width: 100%;
+}
+
+#main p{
+    font-size: 30px;
+    color: black;
+}
+
+#props{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+}
